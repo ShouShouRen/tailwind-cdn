@@ -10,7 +10,9 @@ body {
 .badge{
     @apply bg-secondary-100 text-xs uppercase font-bold rounded-full p-2 absolute top-0 ml-2 mt-2;
 } */
-
+.border-primary{
+    border-color: #ff6363;
+}
 .text-mammoth {
     font-size: 8rem;
 }
@@ -19,6 +21,9 @@ body {
     color: #ff6363;
 }
 
+.bg-primary{
+    background-color: #ff6363;
+}
 .text-secondary-100 {
     color: #e2e2d5;
 }
